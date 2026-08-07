@@ -1,0 +1,26 @@
+{
+  "grilling": {
+    "Fingerprint": "DC6E860DD3BCB1D05AF79D88153EDC0362B8D9E051D6182EE80C055DA383FF73",
+    "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling",
+    "InstalledAt": "2026-08-07T11:22:06.443441Z",
+    "Commit": "84fdeffd12f2ee307994d1eb6feb48173b6e0502"
+  },
+  "grill-me": {
+    "Commit": "84fdeffd12f2ee307994d1eb6feb48173b6e0502",
+    "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me",
+    "InstalledAt": "2026-08-07T11:22:31.2264704Z",
+    "Fingerprint": "31222779E570C517B1B5757CEE5921E7CC743FA3D9C9BF22D81442260D428B2F"
+  },
+  "writing-for-agents": {
+    "Commit": "84fdeffd12f2ee307994d1eb6feb48173b6e0502",
+    "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-for-agents",
+    "Fingerprint": "2244B544ABC73015247FB4651286C6504AE4A3D7ECD7A00BE14E9A57122D99F4",
+    "InstalledAt": "2026-08-07T11:31:05.1942082Z"
+  },
+  "wait-what": {
+    "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/wait-what",
+    "InstalledAt": "2026-08-07T11:36:32.4622132Z",
+    "Fingerprint": "B8B60614B5C10D2B230EB50F94B2AEB58BD8189F2F3464A70E268F9F9B6E6960",
+    "Commit": "84fdeffd12f2ee307994d1eb6feb48173b6e0502"
+  }
+}
