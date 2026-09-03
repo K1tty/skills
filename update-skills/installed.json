@@ -1,26 +1,26 @@
 {
   "grilling": {
-    "Fingerprint": "DC6E860DD3BCB1D05AF79D88153EDC0362B8D9E051D6182EE80C055DA383FF73",
+    "Commit": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76",
+    "InstalledAt": "2026-09-03T12:00:35.7190607Z",
     "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling",
-    "InstalledAt": "2026-08-07T11:22:06.443441Z",
-    "Commit": "84fdeffd12f2ee307994d1eb6feb48173b6e0502"
+    "Fingerprint": "9AB42868B29A3BD574E79D42A1EDBFE560AD4DB1B157BCF1787EF73216757F54"
   },
   "grill-me": {
-    "Commit": "84fdeffd12f2ee307994d1eb6feb48173b6e0502",
+    "Commit": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76",
+    "InstalledAt": "2026-09-03T12:00:35.7636868Z",
     "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me",
-    "InstalledAt": "2026-08-07T11:22:31.2264704Z",
-    "Fingerprint": "31222779E570C517B1B5757CEE5921E7CC743FA3D9C9BF22D81442260D428B2F"
+    "Fingerprint": "D631CC5146B331432D35E57267D16695A66107E5A5CFF554183D4FEAA1019E88"
   },
   "writing-for-agents": {
-    "Commit": "84fdeffd12f2ee307994d1eb6feb48173b6e0502",
+    "Commit": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76",
+    "InstalledAt": "2026-09-03T12:00:35.8278950Z",
     "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-for-agents",
-    "Fingerprint": "2244B544ABC73015247FB4651286C6504AE4A3D7ECD7A00BE14E9A57122D99F4",
-    "InstalledAt": "2026-08-07T11:31:05.1942082Z"
+    "Fingerprint": "9799A10EE4AA48AAB4D3B51ED66E2167CFD327AB51529EDC275D70C8073D26D5"
   },
   "wait-what": {
+    "Commit": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76",
+    "InstalledAt": "2026-09-03T12:00:35.8688197Z",
     "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/wait-what",
-    "InstalledAt": "2026-08-07T11:36:32.4622132Z",
-    "Fingerprint": "B8B60614B5C10D2B230EB50F94B2AEB58BD8189F2F3464A70E268F9F9B6E6960",
-    "Commit": "84fdeffd12f2ee307994d1eb6feb48173b6e0502"
+    "Fingerprint": "E175FE6848C9931260ECFC0F08BB4B6B4CFEDB5A0250AAEEBE59A4FA1E52727C"
   }
 }
