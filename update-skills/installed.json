@@ -1,26 +1,32 @@
 {
   "grilling": {
-    "Commit": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76",
-    "InstalledAt": "2026-09-03T12:00:35.7190607Z",
     "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling",
-    "Fingerprint": "9AB42868B29A3BD574E79D42A1EDBFE560AD4DB1B157BCF1787EF73216757F54"
+    "InstalledAt": "2026-10-06T09:19:23.1351840Z",
+    "Fingerprint": "9AB42868B29A3BD574E79D42A1EDBFE560AD4DB1B157BCF1787EF73216757F54",
+    "Commit": "4588b32ecab9ecc9fc8cc6b6c5e7d675b6004b0d"
   },
   "grill-me": {
-    "Commit": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76",
-    "InstalledAt": "2026-09-03T12:00:35.7636868Z",
     "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me",
-    "Fingerprint": "D631CC5146B331432D35E57267D16695A66107E5A5CFF554183D4FEAA1019E88"
+    "InstalledAt": "2026-10-06T09:19:23.1544148Z",
+    "Fingerprint": "D631CC5146B331432D35E57267D16695A66107E5A5CFF554183D4FEAA1019E88",
+    "Commit": "4588b32ecab9ecc9fc8cc6b6c5e7d675b6004b0d"
   },
   "writing-for-agents": {
-    "Commit": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76",
-    "InstalledAt": "2026-09-03T12:00:35.8278950Z",
     "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-for-agents",
-    "Fingerprint": "9799A10EE4AA48AAB4D3B51ED66E2167CFD327AB51529EDC275D70C8073D26D5"
+    "InstalledAt": "2026-10-06T09:19:23.1986563Z",
+    "Fingerprint": "9799A10EE4AA48AAB4D3B51ED66E2167CFD327AB51529EDC275D70C8073D26D5",
+    "Commit": "4588b32ecab9ecc9fc8cc6b6c5e7d675b6004b0d"
   },
   "wait-what": {
-    "Commit": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76",
-    "InstalledAt": "2026-09-03T12:00:35.8688197Z",
     "Url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/wait-what",
-    "Fingerprint": "E175FE6848C9931260ECFC0F08BB4B6B4CFEDB5A0250AAEEBE59A4FA1E52727C"
+    "InstalledAt": "2026-10-06T09:19:23.2547361Z",
+    "Fingerprint": "913BFF72F9C64CF2301ADB772D71F24994B36DF08A8E52A7BAFAC8E4B90C0DA8",
+    "Commit": "4588b32ecab9ecc9fc8cc6b6c5e7d675b6004b0d"
+  },
+  "retro": {
+    "Url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/retro",
+    "InstalledAt": "2026-10-06T09:19:23.2956246Z",
+    "Fingerprint": "1072FF1B167865A4F0B1402EEE69C02166C9DDF2DF3B2FD198C8280B599FEC4E",
+    "Commit": "4588b32ecab9ecc9fc8cc6b6c5e7d675b6004b0d"
   }
 }
