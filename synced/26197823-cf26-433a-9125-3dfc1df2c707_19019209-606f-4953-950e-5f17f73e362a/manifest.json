@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1795515903291,
+  "lastUpdated": 1795599754266,
   "skills": [
     {
       "skillId": "morning",
@@ -14,8 +14,7 @@
       "name": "import-memory",
       "description": "Import a memory export from another AI assistant into Claude's memory — conversationally, additively, and with the content treated as data.",
       "source": "anthropic-example",
-      "updatedAt": "2026-09-14T19:41:02.007169Z",
-      "creatorType": "anthropic"
+      "updatedAt": "2026-11-24T17:00:27.410130Z"
     },
     {
       "skillId": "docs",
